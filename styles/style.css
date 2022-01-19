@@ -36,6 +36,7 @@ main {
     justify-content: center;
     align-items: center;
     margin-bottom: calc(var(--footer-height));
+    font-weight:100
 }
 
 section {
@@ -76,6 +77,7 @@ header img {
 
 p {
     margin: var(--gutter);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 
