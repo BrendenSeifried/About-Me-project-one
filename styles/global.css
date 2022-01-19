@@ -1,10 +1,10 @@
 
 :root {
-    --primary-background: #FFFFF4;
+    --primary-background: #130f4e;
     --chrome-background: #e3b574;
     --chrome-background-opaque: #e3b574d1;
     --secondary-background: #C9B39B;
-    --text-color: #32363F;
+    --text-color: #ffffff;
     --accent-light: #ED8F11;
     --accent-dark: #C27A18;
     
@@ -25,9 +25,11 @@ body {
 
 
 
+
 header {
     display: flex;
     justify-content: flex-start;
+    font-family:Georgia, 'Times New Roman', Times, serif
     background-color: var(--chrome-background);
     box-shadow: 0px 10px 20px -12px rgba(0,0,0,0.45);
     padding: 0 var(--gutter);
@@ -43,3 +45,5 @@ footer {
     padding: 10px var(--gutter);
     align-self: stretch;
 }
+
+
