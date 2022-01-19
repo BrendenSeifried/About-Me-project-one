@@ -23,6 +23,9 @@ body {
 
 }
 
+.name {
+    font-weight: bolder
+}
 
 
 header {
@@ -43,3 +46,5 @@ footer {
     padding: 10px var(--gutter);
     align-self: stretch;
 }
+
+
