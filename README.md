@@ -12,4 +12,4 @@ step 8 add fonts and font sizes for paragraph and list
 step 9 upload.
 
 
-
+Things changed and fell out of order but I got it done none the less!
